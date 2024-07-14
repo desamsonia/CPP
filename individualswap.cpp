@@ -1,7 +1,8 @@
-/*** Input: n = 15 (15 in binary is 00001111)
+/*** Input: n = 15 -> 00001111
  * p = 2, q = 5 (3rd and 6th bit from the right)
  * b = 2 (Total number of consecutive bits in each sequence) 
- * Output: 99 (99 in binary is 01100011) ***/
+ * Output: 99 -> 01100011
+ ***/
 
 #include<iostream>
 #include<bitset>
